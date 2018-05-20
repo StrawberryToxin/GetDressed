@@ -5,9 +5,9 @@
     "MajorVersion": 3,
     "MinorVersion": 5,
     "PatchVersion": 2,
-    "Build": null
+    "Build": "unofficial.1.StrawberryToxin"
   },
-  "MinimumApiVersion": "1.10",
+  "MinimumApiVersion": "1.10.1",
   "Description": "Adds a dresser in the farmhouse that lets you edit your character's appearance.",
   "UniqueID": "Advize.GetDressed",
   "EntryDll": "GetDressed.dll"
